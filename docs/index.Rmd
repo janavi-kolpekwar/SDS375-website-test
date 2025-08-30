@@ -1,30 +1,50 @@
 ---
-title: "Untitled"
-author: "Janavi Kolpekwar"
-date: "2025-08-28"
-output: html_document
+title: "Janavi Kolpekwar"
+image: "headshot.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/janavi-kolpekwar-83063b213/"
+  - label: Github
+    url: "https://github.com/janavi-kolpekwar"
+  - label: Email
+    url: "mailto:jak4884@utexas.edu?subject=Hello%20Janavi&body=Hi%20Janavi,%0A%0AI%20saw%20your%20portfolio%20and%20would%20love%20to%20connect.%0A%0A—%20[Your%20Name]"
+output:
+  postcards::solana
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Bio
 
-## R Markdown
+Janavi Kolpekwar is a Statistics & Data Sciences student at UT Austin with a passion for building at the intersection of AI, healthcare, and technology. She has worked on cancer diagnostics, developed software at Siemens EDA, and created EchoEase, an AI-driven tinnitus relief app. On campus, she helps lead Texas Guadaloop and Texas Enactus, and outside of work she enjoys tennis, music, and exploring new projects that blend creativity with tech.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## My Skills
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+- Data Science with R and Python  
+- Machine Learning & AI  
+- Web Development with RMarkdown and React  
+- Entrepreneurship & Business Strategy 
 
-```{r cars}
-summary(cars)
-```
+## Education
 
-## Including Plots
+B.S. in Statistics & Data Sciences | August 2022 - May 2026
 
-You can also embed plots, for example:
+**The University of Texas - Austin** | Austin, TX
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Experience
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+**R&D Software Engineering Intern** | Siemens | June 2025 - Present
+
+**co-Head of Business** | Texas Guadaloop | April 2025 - Present
+
+**AI/ML Research Analyst** | Navigo Health Systems | Sept 2024 - Present
+
+**Undergraduate Student Researcher** | Oden Institute of CE (UT Austin) | Feb 2025 - Present
+
+**Undergraduate Student Researcher** | Data,Discovery,Decision Lab (UT Austin) | Jan 2024 - July 2025
+
+<hr>
+
+<div style="text-align: center; font-size: 0.9em; color: gray;">
+  Last Build Time: `r Sys.time()`
+</div>
+
+

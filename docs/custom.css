@@ -1,0 +1,6 @@
+.links {
+  position: absolute;
+  top: 250px;   /* adjust downward/upward as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
