@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/janavi-kolpekwar-83063b213/"
   - label: Github
-    url: "https://github.com/janavi-kolpekwar"
+    url: "https://github.com/janavi-kolpekwar/SDS375-website-test"
   - label: Email
     url: "mailto:jak4884@utexas.edu?subject=Hello%20Janavi&body=Hi%20Janavi,%0A%0AI%20saw%20your%20portfolio%20and%20would%20love%20to%20connect.%0A%0A—%20[Your%20Name]"
 output:
